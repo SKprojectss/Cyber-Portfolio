@@ -50,7 +50,9 @@ This lab is ongoing and updated as I progress.
 - How defensive changes affect attack surface
 
 - ---
+
 > Note: The focus of this lab is on understanding exposure and mitigation trade-offs rather than achieving a fully locked-down system.
+
 
 ## Hands-on: Port & Service Hardening (SMB & RPC)
 
